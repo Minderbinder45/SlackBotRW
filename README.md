@@ -6,5 +6,6 @@ Purpose: The goal of this repository is to create a bot in slack that communicat
 
 Execution
   1. Created a Slack appplication with the Slack API and added it to our test workspace
-  2. Created HTTP serverless function that sends messages to Slack with a Cloud Function (Through Google Cloud)
-  3. Scheduled job that calls Cloud Function every given interval with Cloud Scheduler
+  2. Created new Google Cloud Project called 'My First Project' and enabled API services
+  3. Created HTTP serverless function that sends messages to Slack with a Cloud Function (Through Google Cloud)
+  4. Scheduled job that calls Cloud Function every given interval with Cloud Scheduler
